@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @albertoCotumaccio
 - 👀 I’m interested in Computer Science and Music
 - 🌱 I’m currently attending a master in Computer Science at Sapienza University, Rome.
-- 💞️ I’m looking to collaborate on new stimulating projects
+- 💞️ I would like to make creative and interesting projects
 - 📫 How to reach me albertocotu99@gmail.com
 
 <!---
