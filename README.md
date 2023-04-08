@@ -13,4 +13,4 @@ I'm currently focused on completing my master's degree and exploring various are
 I'm always looking for opportunities to collaborate on exciting and innovative projects, developing new software applications.
 
 # How to reach me
-If you'd like to get in touch, feel free to send me an email at albertocotu99@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/alberto-cotumaccio-8b8443229/). I'd love to hear from you!
+If you'd like to get in touch, feel free to send me an email at albertocotu99[AT]gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/alberto-cotumaccio-8b8443229/). I'd love to hear from you!
