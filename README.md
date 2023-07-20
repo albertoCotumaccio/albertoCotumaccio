@@ -1,7 +1,6 @@
 # About Me 
 Hi, I'm Alberto Cotumaccio from Rome, currently pursuing a **Master's degree in Computer Science** at **La Sapienza University**.
 - 🎓 **Bachelor's degree**: Completed an internship at Pedevilla Spa, where I developed an internal web app. Worked as a full-stack dev to improve it.
-- 🎮 **Minecraft**: Founded and managed one of Italy's most popular servers, which provided me with the opportunity to develop essential soft skills and gain hands-on experience in server management using VPS with CentOS OS.
 - 🎵 **Music**: Collaborated with musicians to compose music for their songs on platforms like YouTube and Spotify.
 - 💬 **Collaboration**: Enjoy exchanging ideas and working with others. Believe the human element of a project is just as important as the technical side. Leads to innovative and exciting ideas.
 
